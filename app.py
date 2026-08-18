@@ -46,8 +46,8 @@ scaler, feature_names, target_names, models = load_artifacts()
 
 # ---------- Sidebar ----------
 stl.sidebar.header("⚙️ Controls")
-uploaded_file = st.sidebar.file_uploader("Upload test data (CSV)", type=["csv"])
-selected_model_name = st.sidebar.selectbox("Select Model", list(models.keys()))
+uploaded_file = stl.sidebar.file_uploader("Upload test data (CSV)", type=["csv"])
+selected_model_name = stl.sidebar.selectbox("Select Model", list(models.keys()))
 
 stl.sidebar.markdown("---")
 stl.sidebar.markdown(
