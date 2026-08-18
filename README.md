@@ -28,7 +28,7 @@ The full feature set and 20% held-out test split (114 rows) are provided in
 
 Repository structure:
 ```
-ML-Assignment-2/
+ml-assignment-2/
 │-- app.py                
 │-- train_models.py       
 │-- requirements.txt
