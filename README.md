@@ -82,6 +82,5 @@ The deployed app (`app.py`) supports:
 - **Side-by-side comparison table** of all 5 models on the uploaded data
 
 ## Live Streamlit App Link
+https://ml-assignment-2-fvxx8qiemvztx2wr3pc35z.streamlit.app/
 
-
-4. Click **Deploy**.
